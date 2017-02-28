@@ -1,0 +1,8 @@
+u-boot.imx
+dek.bin
+dek_blob.bin
+u-boot-copy.imx
+u-boot-encrypt.csf
+u-boot-hab.bin
+u-boot-hab_padded.bin
+u-boot-encrypted.imx
